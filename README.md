@@ -3,6 +3,8 @@ This project features a home safety device built with an ESP32 microcontroller k
 
 The PIR sensor monitors the environment for motion, and when motion is detected, the system activates a colorful light pattern on the NeoPixel LED strip and sounds the buzzer. A physical button provides manual control to arm or disarm the system, offering flexibility in its usage. The combination of visual and audible notifications ensures that the device effectively alerts the homeowner, providing a reliable solution for improved safety.
 
+See the Projectin Use at https://www.youtube.com/watch?v=m4nACsacNmk 
+
 # Key functionalities include:
 
 - Motion Detection: The PIR sensor continuously monitors the area for motion and triggers alerts upon detection.
